@@ -108,3 +108,6 @@ Always open to collaborating on interesting projects and discussing new technolo
 [Telegram](https://t.me/Clusteeer), 
 [LinkedIn](https://linkedin.com/in/maksym-kucher-a4b37831a), 
 [Email](mailto:kuchermaksym07@gmail.com) 
+
+
+Fuck AI
