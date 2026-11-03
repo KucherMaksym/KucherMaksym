@@ -1,16 +1,23 @@
-## Hi there 👋
+# Maksym
 
-<!--
-**KucherMaksym/KucherMaksym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A large Cluster of infinite neural processes.
 
-Here are some ideas to get you started:
+Software, online stores, small machines that do the boring work for me. Some of it is public. Most of it isn't.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+cluster@arch ~
+-----------
+os      Arch Linux
+wm      Hyprland
+langs   java, typescript, python
+uptime  4 years
+```
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland">
+</p>
+
+Contact me for more information
+
+[Telegram](https://t.me/Clusteeer) · [Email](mailto:kuchermaksym07@gmail.com)
